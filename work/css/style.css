@@ -1,6 +1,6 @@
 
 body{
-    background-color: #75c0ba;
+    background-color: #adcac8;
   }
   
   .wrapper{
@@ -10,7 +10,7 @@ body{
   }
   
   img{
-    max-width: 80%;
+    max-width: 100%;
   }
   
   .img_button img{
