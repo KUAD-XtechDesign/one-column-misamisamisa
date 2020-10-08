@@ -2,7 +2,13 @@
 body{
     background-color: #adcac8;
   }
-  
+ span{
+   margin: 330px;
+   padding: 0 20px;
+   font-size: 50px;
+   font-weight: 700;
+ } 
+
   .wrapper{
     max-width: 1000px;
     background-color: #fff;
@@ -41,7 +47,7 @@ body{
     cursor: pointer;
   }
   
-  /* 横並び追加 */
+  
   .txt_img{
     display: flex;
   }
@@ -55,7 +61,7 @@ body{
     padding: 10px;
   }
   
-  /* 個別に指定 */
+  
   #content02 .close_button{
     background-color: rgb(60, 118, 185);
   }
